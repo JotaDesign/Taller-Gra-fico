@@ -1,0 +1,53 @@
+.wrapper { 
+	margin: auto;
+	width: 990px;
+	height: 650px;
+	font-family: arial;
+}
+
+header { 
+	display: block;
+	width: 990px;
+	height: 283px;
+	background: url(../images/header.jpg);
+}
+
+li {
+	text-transform: uppercase;
+	float: left;
+
+}
+
+nav { 
+	background-color: #230b03;
+	height: 33px;
+	width: 990px;
+
+}
+
+h1 { 
+	padding: 80px 0px 0px 320px;
+
+}
+
+a { 
+	text-decoration: none;
+	color: white;
+	padding: 8px;
+	display: block;
+
+}
+
+a:hover { 
+	background-color: #8a6145;
+	color: #230b03
+
+}
+
+a:visited { 
+	background-color: #8a6145;
+	color: #230b03;
+
+}
+
+/*float: left:*/ 
