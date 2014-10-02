@@ -1,0 +1,81 @@
+.wrapper { 
+	margin: auto;
+	width: 990px;
+	height: 600px;
+	font-family: arial;
+	border: 1px solid;
+}
+
+header {
+	width: 990px;
+	height: 90px;
+}
+
+h1 {
+	font-size: 50px;
+	padding-left: 25px;
+}
+
+nav {
+	float: right;
+	padding-right: 25px;
+	padding-bottom: 20px;
+	text-decoration: none;
+}
+
+.botones li{
+	float: left;
+	padding-left: 20px;
+	text-decoration: none;
+}
+
+aside {
+	float: left;
+	width: 230px;
+	height: 365px;
+	line-height: 200%;
+	font-size: 14px;
+	padding-left: 25px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+section {
+	float: left;
+	width: 708px;
+	height: 450px;
+	padding-left: 25px;
+}
+
+article {
+	width: 675px;
+	height: 215px;
+}
+
+h5 {
+	font-size: 12px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+h2 {
+	font-size: 22px;
+	font-family: Arial;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+p {
+	line-height: 150%;
+	font-size: 14px;
+}
+
+footer {
+	height: 47px;
+}
+
+footer p {
+	font-size: 12px;
+	font-weight: bold;
+	padding-left: 15px;
+}
