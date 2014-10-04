@@ -61,14 +61,16 @@ a:visited {
 }
 
 section { 
-	background-color: #ffffff;
 	height: 330px;
-	width: 990px;
 }
 
-article{
-	width: 495px;
+.article1{
 	float: left;
+}
+
+.article2{
+	float: right;
+	padding-right: 100px;
 }
 
 h2 {
@@ -77,10 +79,11 @@ h2 {
 	font-size: 24px;
 	padding-left: 90px;
 	padding-top: 40px;
+	color: #230b03;
 }
 
 p {
-	font-family: arial;
+	font-family: Arial;
 	font-size: 12px;
 	color: #230b03;
 	padding-left: 90px;
@@ -94,13 +97,13 @@ footer {
 	background-color: #230b03;
 	height: 34px;
 	width: 990px;
+	clear: both;
 }
 
 footer p {
+	font-family: Arial;
 	color: #ffffff;
-	font-family: arial;
 	font-size: 12px;
-	text-align: center;
 	padding-top: 10px;
 }
 

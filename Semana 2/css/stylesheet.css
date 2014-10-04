@@ -1,17 +1,11 @@
 .wrapper { 
 	margin: auto;
 	width: 990px;
-	height: 600px;
 	font-family: arial;
-	border: 1px solid;
-}
-
-header {
-	width: 990px;
-	height: 90px;
 }
 
 h1 {
+	font-family: impact;
 	font-size: 50px;
 	padding-left: 25px;
 }
@@ -19,7 +13,7 @@ h1 {
 nav {
 	float: right;
 	padding-right: 25px;
-	padding-bottom: 20px;
+	padding-bottom: 15px;
 	text-decoration: none;
 }
 
@@ -32,7 +26,6 @@ nav {
 aside {
 	float: left;
 	width: 230px;
-	height: 365px;
 	line-height: 200%;
 	font-size: 14px;
 	padding-left: 25px;
@@ -43,13 +36,7 @@ aside {
 section {
 	float: left;
 	width: 708px;
-	height: 450px;
 	padding-left: 25px;
-}
-
-article {
-	width: 675px;
-	height: 215px;
 }
 
 h5 {
@@ -59,8 +46,8 @@ h5 {
 }
 
 h2 {
-	font-size: 22px;
-	font-family: Arial;
+	font-size: 24px;
+	font-family: impact;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
@@ -78,4 +65,11 @@ footer p {
 	font-size: 12px;
 	font-weight: bold;
 	padding-left: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 14px;
 }
