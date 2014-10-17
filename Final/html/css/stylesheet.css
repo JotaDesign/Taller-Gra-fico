@@ -1,6 +1,8 @@
-.body {
+body {
 	width: 990px;
-	color: #e8e8e8;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #e8e8e8;
 }
 
 header {
